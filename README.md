@@ -1,2 +1,4 @@
 # profile-card
-This is the basic profile card for a website
+This is the profile card for a website.
+It is mostly used on websites.
+
